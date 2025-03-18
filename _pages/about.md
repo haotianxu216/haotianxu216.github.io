@@ -90,7 +90,7 @@ School of Computer Science and Technology, University of Science and Technology 
 <div class='school-box'>
 <div><img src='images/ustc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2019.09 - 2023.6, B.S. Student.
+2019.09 - 2023.06, B.S. Student.
 
 School of Computer Science and Technology, University of Science and Technology of China (CS, USTC), Hefei, Anhui.
 </div>
