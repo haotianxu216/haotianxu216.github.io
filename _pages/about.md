@@ -70,7 +70,7 @@ School of Computer Science and Technology, University of Science and Technology 
 <span class='anchor' id='-honors-and-awards'></span>
 
 ## Honors
-- Outstanding Student Scholarshi at USTC (2022.10)
+- Outstanding Student Scholarship at USTC (2022.10)
 - National Encouragement Scholarship at USTC (2020-2022)
 
 ## Competitions Awards
