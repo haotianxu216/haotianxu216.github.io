@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "He Sun"
+title                    : "Haotian Xu"
 description              : ""
-repository               : "github.com/ustc-sunny/ustc-sunny.github.io"
+repository               : "github.com/haotianxu216/haotianxu216.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "He Sun"
-  avatar           : "images/hesun.jpg"
-  bio              : "Ph.D. student of Computer Science, USTC"
+  name             : "Haotian Xu"
+  avatar           : "images/haotianxu.jpg"
+  bio              : "M.S. student of Computer Science, USTC"
   location         : "Hefei, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=K_d_uY0AAAAJ&hl=en"
-  email            : "hesun@mail.ustc.edu.cn"
-  researchgate     :  "https://www.researchgate.net/profile/He-Sun-31/research?ev=prf_act"
+  googlescholar    : # "https://scholar.google.com/citations?user=K_d_uY0AAAAJ&hl=en"
+  email            : "xht2002@mail.ustc.edu.cn"
+  researchgate     :  # "https://www.researchgate.net/profile/He-Sun-31/research?ev=prf_act"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,14 +37,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ustc-sunny
+  github           : haotianxu216
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : ""
+  dblp             : # ""
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
