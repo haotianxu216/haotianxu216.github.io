@@ -40,6 +40,7 @@ My research interests include **Federated Learning**, **Distributed Learning** a
 <span class='anchor' id='-publications'></span>
 ## Preprint
 - <span style="font-family: Arial; font-size:medium;">**Haotian Xu**, Jinrui Zhou, Xichong Zhang, Mingjun Xiao, He Sun, Yin Xu. "SFedKD: Sequential Federated Learning with Discrepancy-Aware Multi-Teacher Knowledge Distillation", Arxiv' 25[[Paper]](https://arxiv.org/pdf/2507.08508)</span>
+
 ## Conferences
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[INFOCOM'26]</b></a> Jinrui Zhou, Yin Xu, **Haotian Xu**, Mingjun Xiao, Jie Wu, "Age-of-Information-Aware Mobile Crowdsensing for Uncertain Event Capture", INFOCOM'26
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICDE'25]</b></a> Xichong Zhang, **Haotian Xu**, Yin Xu, Mingjun Xiao, Jie Wu, Jinrui Zhou, "Online Federated Learning on Distributed Unknown Data Using UAVs", ICDE'25
