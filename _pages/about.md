@@ -18,7 +18,7 @@ redirect_from:
 # About Me
 
 <span class='anchor' id='about-me'></span>
-  Hi, there. I am Haotian Xu (徐昊天), a second-year Master student in the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) & [Suzhou Institute for Advanced Study](https://sz.ustc.edu.cn/index.html) & [State Key Laboratory of Cognitive Intelligence](http://cogskl.iflytek.com/) at the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). This is my [CV](https://haotianxu216.github.io/cv_en.pdf).
+  Hi, there. I am Haotian Xu (徐昊天), a third-year Master student in the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) & [Suzhou Institute for Advanced Study](https://sz.ustc.edu.cn/index.html) & [State Key Laboratory of Cognitive Intelligence](http://cogskl.iflytek.com/) at the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). This is my [CV](https://haotianxu216.github.io/cv_en.pdf).
 
 My research interests include **Federated Learning**, **Distributed Learning** and **Efficient LLM**. 
 
@@ -38,12 +38,15 @@ My research interests include **Federated Learning**, **Distributed Learning** a
 
 # 📝 Publications 
 <span class='anchor' id='-publications'></span>
+## Preprint
+- <span style="font-family: Arial; font-size:medium;">**Haotian Xu**, Jinrui Zhou, Xichong Zhang, Mingjun Xiao, He Sun, Yin Xu. "SFedKD: Sequential Federated Learning with Discrepancy-Aware Multi-Teacher Knowledge Distillation", Arxiv' 25[[Paper]](https://arxiv.org/pdf/2507.08508)</span>
 ## Conferences
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[INFOCOM'26]</b></a> Jinrui Zhou, Yin Xu, **Haotian Xu**, Mingjun Xiao, Jie Wu, "Age-of-Information-Aware Mobile Crowdsensing for Uncertain Event Capture", INFOCOM'26
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICDE'25]</b></a> Xichong Zhang, **Haotian Xu**, Yin Xu, Mingjun Xiao, Jie Wu, Jinrui Zhou, "Online Federated Learning on Distributed Unknown Data Using UAVs", ICDE'25
 
 ## Journals
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TII'24]</b></a> Yin Xu, Mingjun Xiao, Jie Wu, Guoju Gao, Datian Li, **Haotian Xu**, Tongxiao Zhang. "Enhancing Decentralized Federated Learning with Model Pruning and Adaptive Communication", IEEE Transactions on Industrial Informatics, 2024
+- <span style="font-family: Arial; font-size:medium;"><a style="color: #0000FF;"><b>[TON'25]</b></a> Jinrui Zhou, **Haotian Xu**, Yin Xu, Mingjun Xiao, Jie Wu, "Efficient Parallel-Sequential Federated Learning with Training Structure Optimization", IEEE/ACM Transactions on Networking, 2025 (Under Review)
 
 
 <div style="display:none">
