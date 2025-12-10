@@ -39,7 +39,8 @@ My research interests include **Federated Learning**, **Distributed Learning** a
 # 📝 Publications 
 <span class='anchor' id='-publications'></span>
 ## Conferences
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICDE'25]</b></a> Xichong Zhang, **Haotian Xu**, Yin Xu, Mingjun Xiao, Jie Wu, and Jinrui Zhou, "Online Federated Learning on Distributed Unknown Data Using UAVs", ICDE'25
+- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[INFOCOM'26]</b></a> Jinrui Zhou, Yin Xu, **Haotian Xu**, Mingjun Xiao, Jie Wu, "Age-of-Information-Aware Mobile Crowdsensing for Uncertain Event Capture", INFOCOM'26
+- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICDE'25]</b></a> Xichong Zhang, **Haotian Xu**, Yin Xu, Mingjun Xiao, Jie Wu, Jinrui Zhou, "Online Federated Learning on Distributed Unknown Data Using UAVs", ICDE'25
 
 ## Journals
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TII'24]</b></a> Yin Xu, Mingjun Xiao, Jie Wu, Guoju Gao, Datian Li, **Haotian Xu**, Tongxiao Zhang. "Enhancing Decentralized Federated Learning with Model Pruning and Adaptive Communication", IEEE Transactions on Industrial Informatics, 2024
