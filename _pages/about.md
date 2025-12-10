@@ -18,7 +18,7 @@ redirect_from:
 # About Me
 
 <span class='anchor' id='about-me'></span>
-  Hi, there. I am Haotian Xu (徐昊天), a third-year Master student in the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) & [Suzhou Institute for Advanced Study](https://sz.ustc.edu.cn/index.html) & [State Key Laboratory of Cognitive Intelligence](http://cogskl.iflytek.com/) at the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). This is my [CV](https://haotianxu216.github.io/cv_en.pdf).
+  Hi, there. I am Haotian Xu (徐昊天), a third-year Master student in the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm) & [Suzhou Institute for Advanced Study](https://sz.ustc.edu.cn/index.html) & [State Key Laboratory of Cognitive Intelligence](http://cogskl.iflytek.com/) at the [University of Science and Technology of China](https://ustc.edu.cn/) (USTC), supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). This is my [CV](https://haotianxu216.github.io/CV.pdf).
 
 My research interests include **Federated Learning**, **Distributed Learning** and **Efficient LLM**. 
 
